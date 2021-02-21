@@ -15,5 +15,6 @@ func main() {
 	for i := 0; i < 3; i++ {
 		fmt.Println(tl.Nao())
 		fmt.Println(tl.Aika())
+		fmt.Println(tl.Saeko())
 	}
 }

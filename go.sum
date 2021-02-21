@@ -2,3 +2,5 @@ github.com/xcsk/breakline v0.0.1 h1:rwnZjPrcS9WORlx5rlUPNFoP3JQqeQFbk4DP3gWLBeI=
 github.com/xcsk/breakline v0.0.1/go.mod h1:dW0RyICpEI0xZCoP3gRuZvUVbK7Yka9lTS0tWe5xegg=
 github.com/xcsk/breakline/title v0.0.5 h1:07dUOkCgB7V5x2bJqKC8/p9cKcZHO25lpWrautsX5bU=
 github.com/xcsk/breakline/title v0.0.5/go.mod h1:J2iltYJ1n+g3TfpdU/lvJ0v1DDY/CGfFvjUwK2JEdpo=
+github.com/xcsk/breakline/title v0.0.6 h1:Aj8XYF2c9DL3Y+ZKrYV3ANmL+iE8NkfmAterMFDOa40=
+github.com/xcsk/breakline/title v0.0.6/go.mod h1:J2iltYJ1n+g3TfpdU/lvJ0v1DDY/CGfFvjUwK2JEdpo=

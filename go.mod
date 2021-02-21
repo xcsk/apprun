@@ -4,5 +4,5 @@ go 1.15
 
 require (
 	github.com/xcsk/breakline v0.0.1
-	github.com/xcsk/breakline/title v0.0.5
+	github.com/xcsk/breakline/title v0.0.6
 )
